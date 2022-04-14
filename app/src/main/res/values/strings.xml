@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android111r</string>
+    
+    <string-array name="how_many_years">
+        <item>２年制</item>
+        <item>３年制</item>
+        <item>４年制</item>
+    </string-array>
+</resources>
